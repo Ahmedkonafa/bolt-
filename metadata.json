@@ -1,0 +1,6 @@
+
+{
+  "name": "Bolt Arabic | بولت العربي",
+  "description": "An AI-powered development platform localized for the Arabic-speaking community, featuring real-time AI assistance and RTL support.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
